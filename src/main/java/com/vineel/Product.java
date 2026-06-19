@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 public class Product {
 
     @Id
-    private int id;
+    private int id;	
     private String name;
     private double price;
 
